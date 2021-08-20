@@ -5,6 +5,6 @@ I'll be continuing this as time permits. I'll try comment as much as possible an
 
 # Current Algorithms
 - REINFORCE
-- DQN
+- DQN & DDQN - only real change is target update
 - One Step Actor-Critic
 - DDPG
