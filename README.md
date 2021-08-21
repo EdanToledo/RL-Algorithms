@@ -6,5 +6,6 @@ I'll be continuing this as time permits. I'll try comment as much as possible an
 # Current Algorithms
 - REINFORCE
 - DQN & DDQN - only real change is target update
+- Dueling DQN
 - One Step Actor-Critic
 - DDPG
